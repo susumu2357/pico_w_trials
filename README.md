@@ -1,2 +1,2 @@
-# pico_w_trials
+# Raspberry Pi Pico W
 Playing with Raspberry Pi Pico W
